@@ -3,8 +3,8 @@
 ***************************************************************************************************
 Resositório com os arquivos do processo seletivo para a Empresa ConstrUP
 
-Front - > Vue.js
-Back  - > laravel 
+Front - > Vue.js |
+Back  - > laravel | 
 Banco - > MySql
 
 ***************************************************************************************************
